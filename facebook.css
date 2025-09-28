@@ -1,0 +1,42 @@
+body{
+    background-color: aliceblue;
+}
+.facebook{
+    font-size: 80px;
+    font-family: monospace;
+    margin-top: 140px;
+    margin-left: 70px;
+    color: rgb(55, 55, 236)
+}
+.uses{
+    font-size: large;
+    margin-left: 79px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box{
+    height: 300px;
+    width:  280px;
+    background-color: white;
+  margin-left: 800px;
+  margin-top: -150px;
+}
+form{
+    width: 200px;
+}
+.box2{
+    height: 30px;
+    width: 250px;
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 810px;
+    margin-top: -170px;
+}
+.box3{
+    height: 40px;
+    width: 150px;
+    background-color: lime;
+    color: white;
+    margin-left: 870px;
+    margin-top: 40px;
+}
+
